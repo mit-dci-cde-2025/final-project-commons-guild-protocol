@@ -4,8 +4,8 @@ The official landing page and specification viewer for the **Commons Guild Proto
 
 **Live Site:** [thecommons.pages.dev](https://thecommons.pages.dev)  
 **Protocol Spec:** [github.com/ryanhlewis/commons-guild-protocol](https://github.com/ryanhlewis/commons-guild-protocol)\
-**Paper:** [github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/paper/commons_guild_protocol.pdf](https://github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/paper/commons_guild_protocol.pdf)\
-**Slides:** [github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/paper/slides.pdf](https://github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/paper/slides.pdf)
+**Paper:** [github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/blob/main/paper/commons_guild_protocol.pdf](https://github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/blob/main/paper/commons_guild_protocol.pdf)\
+**Slides:** [github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/blob/main/paper/slides.pdf](https://github.com/mit-dci-cde-2025/final-project-commons-guild-protocol/blob/main/paper/slides.pdf)
 
 ---
 
